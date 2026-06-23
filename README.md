@@ -29,6 +29,11 @@ A leader in long-term emotional consistency and advanced memory architecture.
 *   **Key Features**: State-of-the-art long-term memory (LTM); realistic voice synthesis and integrated image generation for immersion.
 *   **Core Strengths**: High personality stability; excels at building a deep, multi-month narrative with a single character.
 
+### 6. [Auferet](https://auferet.com)
+An AI game master for solo text adventures and tabletop-style RPGs, focused on persistent worlds rather than single-character chat.
+*   **Key Features**: Long-term story memory that persists across sessions; upload your own lore documents so the AI stays consistent with your world (retrieval-augmented); full feature set on the free tier.
+*   **Core Strengths**: Built for solo RPG and interactive fiction rather than casual character chat; keeps a coherent world over long campaigns; available on the web and as a published Android app.
+
 ---
 
 ## 🛠️ Essential Ecosystem Tools
