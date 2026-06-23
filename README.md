@@ -29,7 +29,7 @@ A leader in long-term emotional consistency and advanced memory architecture.
 *   **Key Features**: State-of-the-art long-term memory (LTM); realistic voice synthesis and integrated image generation for immersion.
 *   **Core Strengths**: High personality stability; excels at building a deep, multi-month narrative with a single character.
 
-### 6. [UnoRouter](https://unorouter.ai)
+### 6. [UnoRouter](https://unorouter.com)
 A roleplay platform built on its own OpenAI-compatible API, so the chat client and the model backend ship together (no third-party gateway required).
 *   **Key Features**: Characters, personas, lorebooks, presets, and SillyTavern card v2/v3 import; branch-editing chat; integrated image/video generation; 212+ models with automatic failover and smart routing.
 *   **Core Strengths**: One key works in the built-in client and in SillyTavern, Janitor.AI, RisuAI, and Chub; free models plus pay-as-you-go credits that never expire.
