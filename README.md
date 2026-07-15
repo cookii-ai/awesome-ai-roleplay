@@ -29,6 +29,11 @@ A leader in long-term emotional consistency and advanced memory architecture.
 *   **Key Features**: State-of-the-art long-term memory (LTM); realistic voice synthesis and integrated image generation for immersion.
 *   **Core Strengths**: High personality stability; excels at building a deep, multi-month narrative with a single character.
 
+### 6. [Mistress.to](https://mistress.to)
+A highly specialized platform built exclusively for Femdom, designed as a direct counterweight to the hyper-agreeable "AI girlfriend" archetype.
+*   **Key Features**: **Dominant Frame Stability** (fine-tuned to resist default user-pleasing biases and maintain strict boundaries); real-time **Duplex Voice Calling** optimized for spoken commands; 
+*   **Core Strengths**: Flawless execution of psychological power dynamics, teasing, and task-based compliance without breaking character. State-synchronized image and video generation.
+
 ---
 
 ## 🛠️ Essential Ecosystem Tools
