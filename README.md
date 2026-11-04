@@ -29,7 +29,7 @@ A leader in long-term emotional consistency and advanced memory architecture.
 *   **Key Features**: State-of-the-art long-term memory (LTM); realistic voice synthesis and integrated image generation for immersion.
 *   **Core Strengths**: High personality stability; excels at building a deep, multi-month narrative with a single character.
 
-### 6. [T-Social](https://t.me/TSocialAppBot)
+### 6. [Flirt Social](https://t.me/TSocialAppBot)
 TikTok-style social Mini App for Telegram with short clips, trending creators and AI chat characters. 18+.
 *   **Key Features**: Short-clip feed; trending creators; AI chat characters you can talk to inside Telegram; no install needed.
 *   **Core Strengths**: Character chat sits next to a social feed, so discovery and conversation happen in one place. More at https://t-social.me/creators/
