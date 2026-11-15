@@ -29,6 +29,11 @@ A leader in long-term emotional consistency and advanced memory architecture.
 *   **Key Features**: State-of-the-art long-term memory (LTM); realistic voice synthesis and integrated image generation for immersion.
 *   **Core Strengths**: High personality stability; excels at building a deep, multi-month narrative with a single character.
 
+### 6. [Sammi: AI Girlfriend](https://sammiai.app/)
+An Android companion app published by Joy Fun for fictional character conversations and creative roleplay.
+*   **Key Features**: Character text chat, voice interaction, and character customization.
+*   **Core Strengths**: Combines text and voice character interaction in a dedicated Android app. Free download with optional in-app purchases.
+
 ---
 
 ## 🛠️ Essential Ecosystem Tools
